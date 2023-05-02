@@ -3,7 +3,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-rastogi-56369321a/)
 
 ## About Me 
-Hi! I'm a computer science student at University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. I like to work with backend, and enjoy fast pace and challenging enviroments.
+Hi! I'm a computer science student at University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
+
 <!--
 **Oriyans-sunset/Oriyans-sunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
