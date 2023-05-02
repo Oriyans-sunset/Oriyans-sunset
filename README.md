@@ -1,9 +1,8 @@
-### Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-rastogi-56369321a/)
+### Hi there! 👋
+I'm a Computer Science student at University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
 
-## About Me 
-Hi! I'm a computer science student at University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
+## Contact
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-rastogi-56369321a/)
 
 <!--
 **Oriyans-sunset/Oriyans-sunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
