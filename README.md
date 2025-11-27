@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm a Computer Science student at University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
+I'm a Computer Science grad from University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
 
 <!--
 **Oriyans-sunset/Oriyans-sunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
