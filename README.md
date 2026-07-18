@@ -9,19 +9,15 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
  
 
 <table>
-<tr>
-<td width="50%">
+ <tr>
+  <td width="50%">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oriyans-sunset&theme=dark" width="100%" height="100%"/>
+  </td>
 
-<img src="https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,ffd84d,2b2b2b,000000,2fbf71,e0a800,f97316,52b788" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oriyans-sunset&theme=dark" width="100%" height="100%"/>
-
-</td>
-</tr>
+  <td width="50%">
+   <img src="https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,ffd84d,2b2b2b,000000,2fbf71,e0a800,f97316,52b788" width="100%"/>
+  </td>
+ </tr>
 </table>
 <!-- great_gatsby flag_india dark darcula codeSTACKr) buefy kacho_ga moltack-->
 
