@@ -8,8 +8,7 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
 
 
 ![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,ffd84d,2b2b2b,000000,8bd450,f6c945,ff9f1c,ffe066)
-![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fff9db,b7e000,2f2f2f,000000,95d55b,f4d35e,ee964b,ffe066)
-![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,f6c945,2b2b2b,000000,95d55b,f6c945,ff9f1c,52b788)
+
 
 
 
@@ -40,6 +39,8 @@ Lighter:
 ![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fff7ec,00c2a8,2b2d42,000000,52b788,fcbf49,f77f00,f4d35e)
 
 ![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fffaf0,ffb703,2b2d42,000000,06d6a0,ffd166,ef476f,73d2de)
+![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fff9db,b7e000,2f2f2f,000000,95d55b,f4d35e,ee964b,ffe066)
+![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,f6c945,2b2b2b,000000,95d55b,f6c945,ff9f1c,52b788)
 
 
 
