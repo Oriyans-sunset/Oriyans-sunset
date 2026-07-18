@@ -8,6 +8,9 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
 
 
 ![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,ffd84d,2b2b2b,000000,2fbf71,e0a800,f97316,52b788)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oriyans-sunset&theme=dark) <!-- great_gatsby flag_india dark darcula codeSTACKr) buefy kacho_ga moltack-->
+
+
 
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
