@@ -2,6 +2,33 @@
 I'm a Computer Science grad from University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
 
 
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg) 
+
+
+
+<!--
+**Oriyans-sunset/Oriyans-sunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+Better github snake themes:
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/cotton_candy.svg) 
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/barbie.svg) 
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/aurora.svg) 
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/butterfly.svg) 
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/iridescent.svg) 
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/lavender.svg) 
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/neon_sakura.svg) 
+
+
+
+
+
+
+
+
+Plain ones:
+
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/github-snake.svg)
 ![github-snake gif](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/ocean.gif)
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/github-snake-dark.svg)
@@ -11,12 +38,6 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/ember.svg)
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/galaxy.svg)
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/mango.svg)
-
-<!--
-**Oriyans-sunset/Oriyans-sunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
