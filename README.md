@@ -1,4 +1,4 @@
-### hi there! 
+### hi! 
 welcome to _github **dot** com_, a website I made..._by myself_..._for myself_...but you can use it too :p
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg)
 <table>
