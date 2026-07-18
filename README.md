@@ -4,7 +4,13 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
 
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/github-snake.svg)
 ![github-snake gif](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/ocean.gif)
-![github-snake gif](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/github-snake-dark.svg)
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/github-snake-dark.svg)
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/forest.svg)
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/ice.svg)
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/sakura.svg)
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/ember.svg)
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/galaxy.svg)
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/mango.svg)
 
 <!--
 **Oriyans-sunset/Oriyans-sunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
