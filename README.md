@@ -11,7 +11,7 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
 <table>
  <tr>
   <td width="50%">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oriyans-sunset&theme=monokai" width="100%" height="100%"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oriyans-sunset&theme=date_night" width="100%" height="100%"/>
   </td>
 
   <td width="50%">
@@ -19,7 +19,7 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
   </td>
  </tr>
 </table>
-<!-- great_gatsby flag_india dark darcula codeSTACKr) buefy kacho_ga moltack-->
+<!-- monokai great_gatsby flag_india dark darcula codeSTACKr) buefy kacho_ga moltack-->
 
 
 
