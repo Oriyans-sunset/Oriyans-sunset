@@ -1,7 +1,9 @@
 ### hi! 
 welcome to _github **dot** com_, a website I made..._by myself_..._for myself_...but you can use it too :p 
 
-![](https://badgen.net/email/ryzenlyve/gmail.com?color=orange)
+<a href="mailto:ryzenlyve@gmail.com"> 
+ <img src="https://badgen.net/email/ryzenlyve/gmail.com?color=orange"/>
+</a>
 
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg)
 <table>
@@ -11,7 +13,9 @@ welcome to _github **dot** com_, a website I made..._by myself_..._for myself_..
   </td>
 
   <td width="50%">
-   <img src="https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,ffd84d,2b2b2b,000000,2fbf71,e0a800,f97316,52b788" width="100%"/>
+   <a href="https://leetcode.com/u/RetroArtist03/">
+    <img src="https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,ffd84d,2b2b2b,000000,2fbf71,e0a800,f97316,52b788" width="100%"/>
+   </a>
   </td>
  </tr>
 </table>
