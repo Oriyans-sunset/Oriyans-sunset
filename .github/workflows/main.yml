@@ -29,15 +29,15 @@ jobs:
             dist/galaxy.svg?color_snake=#c77dffcolor_dots=#1b1028,#3c1361,#6f2dbd,#9d4edd,#c77dffcolor_background=#0d1117
             dist/ember.svg?color_snake=#ff6b35&color_dots=#2b1008,#5b1e0d,#8c2f10,#c44900,#ff6b35&color_background=#0d1117
             dist/mango.svg?color_snake=#f7b801&color_dots=#332200,#665500,#998000,#d9a404,#ffe066&color_background=#0d1117
-            dist/pineapple.svg?color_snake=#ffd166color_dots=#173f35,#2d6a4f,#52b788,#d4a017,#ffd166color_background=#0d1117
-            dist/cotton_candy.svg?color_snake=#6ee7ffcolor_dots=#ffb3ff,#ff7bd5,#ff4ea3,#7dd3fc,#6ee7ffcolor_background=#0d1117
-            dist/peach.svg?color_snake=#ffd166color_dots=#fff2d6,#ffd6a5,#ffb86c,#ff8f5a,#ff5d73color_background=#0d1117
-            dist/barbie.svg?color_snake=#ff1493color_dots=#ffd6ef,#ff9ed4,#ff69b4,#ff1493,#c71585color_background=#0d1117
-            dist/aurora.svg?color_snake=#64ffdacolor_dots=#7f5af0,#2cb67d,#64ffda,#00e5ff,#80ffeacolor_background=#0d1117
-            dist/butterfly.svg?color_snake=#66ccffcolor_dots=#ff66c4,#d56dff,#9d8dff,#66ccff,#a6f6ffcolor_background=#0d1117
-            dist/iridescent.svg?color_snake=#ffffffcolor_dots=#ff66c4,#8e7dff,#66ccff,#66ffcc,#ffffffcolor_background=#0d1117
-            dist/neon_sakura.svg?color_snake=#ff5ca8color_dots=#ffebf4,#ffb3d9,#ff7eb6,#ff4f9d,#ff1f7acolor_background=#0d1117
-            dist/lavender.svg?color_snake=#d291ffcolor_dots=#f5e9ff,#e5b8ff,#cf8cff,#b45cff,#8e2de2color_background=#0d1117
+            dist/pineapple.svg?color_snake=#ffd166&color_dots=#173f35,#2d6a4f,#52b788,#d4a017,#ffd166&color_background=#0d1117
+            dist/cotton_candy.svg?color_snake=#6ee7ff&color_dots=#ffb3ff,#ff7bd5,#ff4ea3,#7dd3fc,#6ee7ff&color_background=#0d1117
+            dist/peach.svg?color_snake=#ffd166&color_dots=#fff2d6,#ffd6a5,#ffb86c,#ff8f5a,#ff5d73&color_background=#0d1117
+            dist/barbie.svg?color_snake=#ff1493&color_dots=#ffd6ef,#ff9ed4,#ff69b4,#ff1493,#c71585&color_background=#0d1117
+            dist/aurora.svg?color_snake=#64ffda&color_dots=#7f5af0,#2cb67d,#64ffda,#00e5ff,#80ffea&color_background=#0d1117
+            dist/butterfly.svg?color_snake=#66ccff&color_dots=#ff66c4,#d56dff,#9d8dff,#66ccff,#a6f6ff&color_background=#0d1117
+            dist/iridescent.svg?color_snake=#ffffff&color_dots=#ff66c4,#8e7dff,#66ccff,#66ffcc,#ffffff&color_background=#0d1117
+            dist/neon_sakura.svg?color_snake=#ff5ca8&color_dots=#ffebf4,#ffb3d9,#ff7eb6,#ff4f9d,#ff1f7a&color_background=#0d1117
+            dist/lavender.svg?color_snake=#d291ff&color_dots=#f5e9ff,#e5b8ff,#cf8cff,#b45cff,#8e2de2&color_background=#0d1117
             
 
       - uses: actions/upload-artifact@v4
