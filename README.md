@@ -1,4 +1,4 @@
-### Hi there! 👋
+### hi there! 
 I'm a Computer Science grad from University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
 
 
