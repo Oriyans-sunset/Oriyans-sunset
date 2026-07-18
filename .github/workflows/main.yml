@@ -29,6 +29,7 @@ jobs:
             dist/galaxy.svg?color_snake=#c77dffcolor_dots=#1b1028,#3c1361,#6f2dbd,#9d4edd,#c77dffcolor_background=#0d1117
             dist/ember.svg?color_snake=#ff6b35&color_dots=#2b1008,#5b1e0d,#8c2f10,#c44900,#ff6b35&color_background=#0d1117
             dist/mango.svg?color_snake=#f7b801&color_dots=#332200,#665500,#998000,#d9a404,#ffe066&color_background=#0d1117
+            dist/pineapple.svg?color_snake=#ffd166color_dots=#173f35,#2d6a4f,#52b788,#d4a017,#ffd166color_background=#0d1117
 
       - uses: actions/upload-artifact@v4
         with:
