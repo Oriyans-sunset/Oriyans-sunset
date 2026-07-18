@@ -20,6 +20,9 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
  </tr>
 </table>
 <!-- monokai great_gatsby flag_india dark darcula codeSTACKr) buefy kacho_ga moltack-->
+<div align="left">
+ <img src="https://count.getloli.com/@Oriyans-sunset?name=Oriyans-sunset&theme=minecraft&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"/>
+</div>
 
 
 
