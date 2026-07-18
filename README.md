@@ -2,7 +2,10 @@
 I'm a Computer Science grad from University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
 
 
-![github-snake gif](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/output/dist/ocean.gif)
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/github-snake.svg)
+![github-snake gif](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/ocean.gif)
+![github-snake gif](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/github-snake-dark.svg)
+
 <!--
 **Oriyans-sunset/Oriyans-sunset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
