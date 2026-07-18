@@ -9,7 +9,7 @@ I'm a Computer Science grad from University of Alberta, who loves working with n
 
 ![](https://leetcard.jacoblin.cool/RetroArtist03?colors=fff8e7,ffd84d,2b2b2b,000000,2fbf71,e0a800,f97316,52b788)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 
 
