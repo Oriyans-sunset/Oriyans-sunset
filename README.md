@@ -1,13 +1,6 @@
 ### hi there! 
-I'm a Computer Science grad from University of Alberta, who loves working with new and interesting technologies to build fun and meaningful software. Check out my various projects ranging from apps to websites.
-
-
-![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg) 
-
-
-
- 
-
+welcome to _github **dot** com_, a website I made..._by myself_..._for myself_...but you can use it too :p
+![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg)
 <table>
  <tr>
   <td width="50%">
