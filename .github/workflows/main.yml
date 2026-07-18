@@ -11,7 +11,7 @@ on:
 jobs:
   generate:
     permissions:
-      contents: read
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -28,3 +28,23 @@ jobs:
         with:
           name: snake-artifacts
           path: dist/
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: github-contribution-grid-snake
+          path: dist/github-snake.svg
+
+      - name: Push to output branch
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: output
+          path: dist/
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/ 2>/dev/null || true
+          git commit -m "Generate snake animation" || true
+          git push origin main 2>/dev/null || true
