@@ -1,5 +1,8 @@
 ### hi! 
-welcome to _github **dot** com_, a website I made..._by myself_..._for myself_...but you can use it too :p
+welcome to _github **dot** com_, a website I made..._by myself_..._for myself_...but you can use it too :p 
+
+![](https://badgen.net/email/ryzenlyve/gmail.com?color=orange)
+
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg)
 <table>
  <tr>
@@ -16,6 +19,7 @@ welcome to _github **dot** com_, a website I made..._by myself_..._for myself_..
 <div align="left">
  <img src="https://count.getloli.com/@Oriyans-sunset?name=Oriyans-sunset&theme=minecraft&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"/>
 </div>
+
 
 
 
