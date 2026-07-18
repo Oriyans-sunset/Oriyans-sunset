@@ -23,6 +23,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+            dist/forest.svg??color_snake=#7ee787&color_dots=#1b4332,#2d6a4f,#40916c,#52b788,#95d5b2&color_background=#0d1117
+            dist/ice.svg?color_snake=#ffffff&color_dots=#1f2937,#3b82f6,#60a5fa,#93c5fd,#dbeafe&color_background=#0d1117
+            dist/sakura.svg?color_snake=#ff7eb6&color_dots=#2d132c,#5c2a4a,#8e4d72,#d17ba3,#ffd6e7&color_background=#0d1117
+            dist/galaxy.svg?color_snake=#c77dffcolor_dots=#1b1028,#3c1361,#6f2dbd,#9d4edd,#c77dffcolor_background=#0d1117
+            dist/ember.svg?color_snake=#ff6b35&color_dots=#2b1008,#5b1e0d,#8c2f10,#c44900,#ff6b35&color_background=#0d1117
+            dist/mango.svg?color_snake=#f7b801&color_dots=#332200,#665500,#998000,#d9a404,#ffe066&color_background=#0d1117
 
       - uses: actions/upload-artifact@v4
         with:
