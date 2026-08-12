@@ -1,5 +1,5 @@
 ### hi! 
-welcome to _github **dot** com_, a website I made..._for myself_...but you can use it too i guess
+welcome to _github **dot** com_, a website I made _for myself_...but you can use it too i guess
 
 <a href="mailto:ryzenlyve@gmail.com"> 
  <img src="https://badgen.net/email/ryzenlyve/gmail.com?color=orange"/>
