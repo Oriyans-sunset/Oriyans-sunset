@@ -5,11 +5,12 @@ welcome to _github **dot** com_, a website I made _for myself_...but you can use
  <img src="https://badgen.net/email/ryzenlyve/gmail.com?color=orange"/>
 </a>
 
-See out some of my highlights 👇:
+see some of my highlights 👇:
 | Project | Tech Stack | Link |
 |---|---|---|
 | DocumentReearcher 📑| Python, Inngest, QDrant, LlamaIndex, Streamlit, Docker  | [🔗](https://github.com/Oriyans-sunset/DocumentResearcher) |
 
+also check out this cool snake 🐍 ⬇️
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg)
 <table>
  <tr>
