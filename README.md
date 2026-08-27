@@ -5,7 +5,7 @@ welcome to _github **dot** com_, a website I made _for myself_...but you can use
  <img src="https://badgen.net/email/ryzenlyve/gmail.com?color=orange"/>
 </a>
 
-see some of my highlights 👇:
+see some of my highlights 👇
 | Project | Tech Stack | Link |
 |---|---|---|
 | DocumentReearcher 📑| Python, Inngest, QDrant, LlamaIndex, Streamlit, Docker  | [🔗](https://github.com/Oriyans-sunset/DocumentResearcher) |
