@@ -9,6 +9,7 @@ see some of my highlights 👇
 | Project | Tech Stack | Link |
 |---|---|---|
 | DocumentReearcher 📑| Python, Inngest, QDrant, LlamaIndex, Streamlit, Docker  | [🔗](https://github.com/Oriyans-sunset/DocumentResearcher) |
+| TagTrail 📍| Swift, SwiftUI, MapKit, RevenueCat  | [🔗](https://github.com/Oriyans-sunset/TagTrail) |
 
 also check out this cool snake 🐍 ⬇️
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg)
