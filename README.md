@@ -10,6 +10,7 @@ see some of my highlights 👇
 |---|---|---|
 | DocumentReearcher 📑| Python, Inngest, QDrant, LlamaIndex, Streamlit, Docker  | [🔗](https://github.com/Oriyans-sunset/DocumentResearcher) |
 | TagTrail 📍| Swift, SwiftUI, MapKit, RevenueCat  | [🔗](https://github.com/Oriyans-sunset/TagTrail) |
+| MoodMusic 🎶| Swift, SwiftUI, OpenAI SDK  | [🔗](https://github.com/Oriyans-sunset/Mood-Music) |
 
 also check out this cool snake 🐍 ⬇️
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg)
