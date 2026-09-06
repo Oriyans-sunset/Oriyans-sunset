@@ -8,7 +8,7 @@ welcome to _github **dot** com_, a website I made _for myself_...but you can use
 see some of my highlights 👇
 | Project | Tech Stack | Link |
 |---|---|---|
-| DocumentReearcher 📑| Python, Inngest, QDrant, LlamaIndex, Streamlit, Docker  | [🔗](https://github.com/Oriyans-sunset/DocumentResearcher) |
+| DocuResearcher 📑| Python, Inngest, QDrant, LlamaIndex, Streamlit, Docker  | [🔗](https://github.com/Oriyans-sunset/DocumentResearcher) |
 | TagTrail 📍| Swift, SwiftUI, MapKit, RevenueCat  | [🔗](https://github.com/Oriyans-sunset/TagTrail) |
 | MoodMusic 🎶| Swift, SwiftUI, OpenAI SDK  | [🔗](https://github.com/Oriyans-sunset/Mood-Music) |
 
