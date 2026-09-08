@@ -12,7 +12,7 @@ see some of my highlights 👇
 | TagTrail 📍| Swift, SwiftUI, MapKit, RevenueCat  | [🔗](https://github.com/Oriyans-sunset/TagTrail) |
 | MoodMusic 🎶| Swift, SwiftUI, OpenAI SDK  | [🔗](https://github.com/Oriyans-sunset/Mood-Music) |
 
-also check out this cool snake 🐍 ⬇️
+cool snake below 🐍 ⬇️
 ![github-snake svg](https://raw.githubusercontent.com/Oriyans-sunset/Oriyans-sunset/main/dist/peach.svg)
 <table>
  <tr>
